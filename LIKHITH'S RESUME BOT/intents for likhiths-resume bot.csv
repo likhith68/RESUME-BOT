@@ -1,0 +1,181 @@
+is he young?,Age
+how old is he?,Age
+What is his age?,Age
+is he in his 20s?,Age
+how can we get int touch with him?,allcontact
+total contacts,allcontact
+total contatcs,allcontact
+does he play basketball?,basketball
+basketball,basketball
+he plays basketball?,basketball
+where did he study till 6th?,bhavans
+bsrkv,bhavans
+did he study in bhavans???,bhavans
+where did he do his preprimary from,bhavans
+bhavans,bhavans
+Tell me about him,Brief
+Brief him,Brief
+courses finished,courses
+finished courses,courses
+courses,courses
+what courses did he do?,courses
+Does he play cricket,cricket
+he likes cricket?,cricket
+how long did he play cricket for.,cricket
+cricketer?,cricket
+current course??,currentcourses
+which course is he doing now?>,currentcourses
+what course is he currently doing???,currentcourses
+when is his birthday??,DOB1
+dob,DOB1
+where did he study after bhavans,dps
+dps,dps
+did he study in dps?,dps
+how long did he study in dps for?,dps
+where did he study?,education
+education qualifications,education
+what is his educational background?,education
+his fav sport?,favsport
+is basketball his fav sport?,favsport
+what is his favourite sport right now,favsport
+is he a good football player?,football
+how long did he play football for?,football
+Does he pay Football,football
+Footballl,football
+where did he study after delhi public school,Gitam
+where did he study after dps??,Gitam
+gitam,Gitam
+where is he doing his engineering from??,Gitam
+is he a gitamite?,Gitam
+"where did he his enginerring fro,",Gitam
+github,github
+github account,github
+does he have a github profile?,github
+github link?,github
+what is his github username?,github
+bye,goodbyes
+gtg bye,goodbyes
+see ya,goodbyes
+see you,goodbyes
+ttyl,goodbyes
+alright later,goodbyes
+c ya,goodbyes
+coop,greetings
+hi cooper,greetings
+Hiiii,greetings
+hello,greetings
+cooper,greetings
+hey cooper,greetings
+yo,greetings
+whats up,greetings
+how tall is he?,height
+height?,height
+What is his height?,height
+tall?,height
+height,height
+is he short?,height
+5'8?,height
+hobbies?,Hobbies
+any hobbies?,Hobbies
+what does he do in his free tme?,Hobbies
+what are his hobbies?,Hobbies
+kaggle account??,kaggle
+what is his kaggle account,kaggle
+kaggle,kaggle
+is he on kaggle?,kaggle
+does he speak telugu?,languages
+does he speak english?,languages
+what languages does likhith know?,languages
+does he speak hindi?,languages
+known languages?,languages
+does he have a linkedin profile,linkedin
+linkedin profile,linkedin
+what is his linkedin profile,linkedin
+linkedin,linkedin
+linkin,linkedin
+is he on linkedin?,linkedin
+gmail,mailid
+maid id,mailid
+failed,mailid
+mail,mailid
+maildid,mailid
+mail id,mailid
+gmail account,mailid
+what is his mail id?,mailid
+is he into machine learning,MLDLAI
+dl,MLDLAI
+Machine learning,MLDLAI
+ai,MLDLAI
+ml,MLDLAI
+Artificial Intelligence,MLDLAI
+deep learning,MLDLAI
+data science,MLDLAI
+is he interested in machine learning,MLDLAI
+is he into Artificial intelligence,MLDLAI
+is he into deep learning,MLDLAI
+what is his mother tongue?,mothertongue
+mother tongue?,mothertongue
+mothertongue,mothertongue
+what are you to likhith?,mypurpose
+why are u talking about him,mypurpose
+why are you here,mypurpose
+what do u do?,mypurpose
+what is his name?,name
+full name?,name
+name,name
+tell me his name,name
+what is his full name?,name
+what is his phone number,phoneno
+phone numbber,phoneno
+phone no,phoneno
+number,phoneno
+c,programming
+what programming knowledge does he HAVE,programming
+programming languages,programming
+c++,programming
+programming,programming
+python,programming
+sql,programming
+c c++ python sql,programming
+does he know any programming language?,programming
+waht are the projects that he did?,projects
+what projects did he do?,projects
+what all are the projects he did?,projects
+projects,projects
+that was helpful,replies
+nice,replies
+alright,replies
+okay,replies
+thanks,replies
+cool,replies
+ok,replies
+thank you,replies
+what field is his interested in?,research
+what are his interests??,research
+research,research
+research interests??,research
+what are his fields of interests?,research
+what sports does he play??,sports
+sports that he plays,sports
+which sports does he play?,sports
+plays which sports,sports
+thank you,thankyou
+thankyou,thankyou
+thx,thankyou
+cheers,thankyou
+thanks,thankyou
+video games?,VideoGames
+Does he game?,VideoGames
+games?,VideoGames
+does he play apex legends?,VideoGames
+he like playing games>,VideoGames
+weight>,weight
+how much does he weigh?,weight
+weight?,weight
+his weight??,weight
+how much does he wiegh?,weight
+Did he get placed,work
+where does he work?,work
+job,work
+placed already?,work
+does he work somewhere,work
